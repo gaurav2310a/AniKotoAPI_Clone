@@ -12,7 +12,7 @@
  *   getResolvedStream - Express route handler for GET /api/stream/resolve
  *   getStreamQualities - Express route handler for GET /api/stream/qualities
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

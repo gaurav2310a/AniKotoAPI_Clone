@@ -10,7 +10,7 @@
  * @exports
  *   getRecentlyUpdatedTabs - Express route handler for GET /api/recently-updated
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

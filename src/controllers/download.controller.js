@@ -10,7 +10,7 @@
  * @exports
  *   getDownloadLinks - Express route handler for GET /api/download
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

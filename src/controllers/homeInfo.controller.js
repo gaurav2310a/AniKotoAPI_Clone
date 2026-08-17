@@ -11,7 +11,7 @@
  * @exports
  *   getHomeInfo - Express route handler for GET /api/
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

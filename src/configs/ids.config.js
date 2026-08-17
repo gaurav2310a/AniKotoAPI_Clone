@@ -11,7 +11,7 @@
  * @exports
  *   GENRE_IDS, TYPE_IDS, STATUS_IDS, RATING_IDS, SORT_IDS
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

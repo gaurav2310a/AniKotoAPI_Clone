@@ -12,7 +12,7 @@
  *   getNewRelease - Express route handler for GET /api/new-release
  *   getNewlyAdded - Express route handler for GET /api/newly-added
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

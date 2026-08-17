@@ -11,7 +11,7 @@
  * @exports
  *   getSuggestions - Express route handler for GET /api/suggestions
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

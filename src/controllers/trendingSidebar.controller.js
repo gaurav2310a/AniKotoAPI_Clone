@@ -10,7 +10,7 @@
  * @exports
  *   getTrendingSidebar - Express route handler for GET /api/trending-sidebar
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

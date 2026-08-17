@@ -11,7 +11,7 @@
  * @exports
  *   getAnimeInfo - Express route handler for GET /api/info
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

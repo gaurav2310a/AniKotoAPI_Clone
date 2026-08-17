@@ -11,7 +11,7 @@
  * @exports
  *   fetchWithMirror, getWorkingMirror, resetMirrorCache
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

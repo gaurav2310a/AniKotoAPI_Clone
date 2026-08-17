@@ -10,7 +10,7 @@
  * @exports
  *   extractTopTen
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

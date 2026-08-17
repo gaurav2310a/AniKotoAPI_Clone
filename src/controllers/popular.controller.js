@@ -11,7 +11,7 @@
  * @exports
  *   getPopular - Express route handler for GET /api/most-popular
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

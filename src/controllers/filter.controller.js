@@ -11,7 +11,7 @@
  * @exports
  *   getFilter - Express route handler for GET /api/filter
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

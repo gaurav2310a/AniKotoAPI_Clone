@@ -12,7 +12,7 @@
  *   getSearchResults - Express route handler for GET /api/search
  *   getSearchSuggestions - Express route handler for GET /api/search/suggest
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

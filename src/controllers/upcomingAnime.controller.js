@@ -10,7 +10,7 @@
  * @exports
  *   getUpcomingAnime - Express route handler for GET /api/upcoming
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

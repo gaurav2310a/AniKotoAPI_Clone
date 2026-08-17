@@ -11,7 +11,7 @@
  * @exports
  *   getStatus - Express route handler for GET /api/status/:status
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

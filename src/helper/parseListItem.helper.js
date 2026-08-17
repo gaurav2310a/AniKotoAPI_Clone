@@ -11,7 +11,7 @@
  * @exports
  *   parseListItems, parseListItem
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

@@ -11,7 +11,7 @@
  * @exports
  *   extractEpisodeListAjax
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

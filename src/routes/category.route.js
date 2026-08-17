@@ -11,7 +11,7 @@
  * @exports
  *   categoryRoutes - Function that registers category routes on the Express app
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

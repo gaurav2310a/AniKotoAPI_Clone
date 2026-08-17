@@ -10,7 +10,7 @@
  * @exports
  *   extractWatchPage
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

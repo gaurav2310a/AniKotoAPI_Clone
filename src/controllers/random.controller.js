@@ -10,7 +10,7 @@
  * @exports
  *   getRandom - Express route handler for GET /api/random
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

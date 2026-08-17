@@ -10,7 +10,7 @@
  * @exports
  *   getCompletedAnime - Express route handler for GET /api/completed
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

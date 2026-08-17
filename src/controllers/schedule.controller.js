@@ -11,7 +11,7 @@
  * @exports
  *   getSchedule - Express route handler for GET /api/schedule
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

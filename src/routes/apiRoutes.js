@@ -11,7 +11,7 @@
  * @exports
  *   createApiRoutes - Function that registers all API routes on the Express app
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */
@@ -620,7 +620,7 @@ app.get("/api/openapi", (req, res) => {
       description: "Free REST API for anime data from anikototv.to",
       version: version,
       contact: {
-        name: "Shinei Nouzen",
+        name: "Gaurav",
         url: "https://github.com/gaurav2310a/AnikotoAPI_Clone",
       },
     },

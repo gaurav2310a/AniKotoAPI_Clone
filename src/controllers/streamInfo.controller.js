@@ -13,7 +13,7 @@
  *   getServerList - Express route handler for GET /api/servers
  *   getMapperServers - Express route handler for GET /api/mapper-servers
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

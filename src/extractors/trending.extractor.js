@@ -10,7 +10,7 @@
  * @exports
  *   extractTrending
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

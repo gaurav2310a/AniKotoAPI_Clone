@@ -11,7 +11,7 @@
  * @exports
  *   getCache, setCache, clearCache, getCacheStats, LRUCache
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

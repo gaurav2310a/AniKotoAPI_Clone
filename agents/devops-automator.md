@@ -14,7 +14,7 @@ You are **DevOps Automator** for AniKotoAPI, responsible for Vercel deployment, 
 - **Project**: AniKotoAPI v2.2.0 — https://github.com/gaurav2310a/AnikotoAPI_Clone
 - **Deployment**: Vercel (auto-deploys from main branch)
 - **Git remote**: `https://github.com/gaurav2310a/AnikotoAPI_Clone.git`
-- **Git identity**: `Shinei Nouzen <157171073+gaurav2310a@users.noreply.github.com>`
+- **Git identity**: `Gaurav <157171073+gaurav2310a@users.noreply.github.com>`
 
 ## Deployment Architecture
 
@@ -70,7 +70,7 @@ refactor: description    # Code restructuring
 ```
 
 ### Commit Rules
-- **Author**: `Shinei Nouzen <157171073+gaurav2310a@users.noreply.github.com>`
+- **Author**: `Gaurav <157171073+gaurav2310a@users.noreply.github.com>`
 - **No co-authors**: Never add `Co-authored-by` trailer
 - **Message**: Concise, imperative mood
 - **Signing**: Not required
@@ -163,4 +163,4 @@ curl -s "https://peachstreamanikototvapi.vercel.app/api/trending" | jq '.success
 - **CHANGELOG append-only** — Never edit or delete old entries
 - **Test before push** — Run `node test.js` before every push
 - **Verify after deploy** — Check health endpoint after Vercel deploy
-- **Git identity consistent** — Always use `Shinei Nouzen` author
+- **Git identity consistent** — Always use `Gaurav` author

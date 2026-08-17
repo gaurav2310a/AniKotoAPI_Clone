@@ -10,7 +10,7 @@
  * @exports
  *   getTopAnimeRankings - Express route handler for GET /api/top-rankings
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

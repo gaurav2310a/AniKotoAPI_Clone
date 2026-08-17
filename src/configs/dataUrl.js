@@ -11,7 +11,7 @@
  * @exports
  *   BASE_URL, ALT_DOMAINS, URLS
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

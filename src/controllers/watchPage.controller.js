@@ -11,7 +11,7 @@
  * @exports
  *   getWatchPage - Express route handler for GET /api/watch
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

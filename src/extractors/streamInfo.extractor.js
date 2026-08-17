@@ -11,7 +11,7 @@
  * @exports
  *   extractStreamInfo, extractServerList, extractMapperServers
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

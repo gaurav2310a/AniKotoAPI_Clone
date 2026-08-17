@@ -10,7 +10,7 @@
  * @exports
  *   extractStatus
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

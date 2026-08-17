@@ -8,7 +8,7 @@
  *   Tests all major endpoints for correct response format, status codes,
  *   error handling, and performance benchmarks.
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

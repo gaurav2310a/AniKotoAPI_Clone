@@ -10,7 +10,7 @@
  * @exports
  *   getTopTen - Express route handler for GET /api/top-ten
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

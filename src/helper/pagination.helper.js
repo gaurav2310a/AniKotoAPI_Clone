@@ -10,7 +10,7 @@
  * @exports
  *   addPaginationMeta
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

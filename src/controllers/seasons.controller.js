@@ -11,7 +11,7 @@
  * @exports
  *   getSeasons - Express route handler for GET /api/seasons/:id
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

@@ -11,7 +11,7 @@
  * @exports
  *   getTrending - Express route handler for GET /api/trending
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

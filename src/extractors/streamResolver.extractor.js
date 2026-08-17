@@ -11,7 +11,7 @@
  * @exports
  *   resolveStreamUrl, resolveStreamUrls, parseM3u8Qualities
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

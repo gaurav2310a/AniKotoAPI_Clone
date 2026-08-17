@@ -394,7 +394,7 @@ This project is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2024 Shinei Nouzen
+Copyright (c) 2024 Gaurav
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -423,7 +423,7 @@ SOFTWARE.
 - **GitHub**: https://github.com/gaurav2310a/AnikotoAPI_Clone
 - **OpenAPI Spec**: https://peachstreamanikototvapi.vercel.app/api/openapi
 - **Health Check**: https://peachstreamanikototvapi.vercel.app/api/health
-- **Author**: [Shinei Nouzen](https://github.com/gaurav2310a)
+- **Author**: [Gaurav](https://github.com/gaurav2310a)
 
 ---
 

@@ -11,7 +11,7 @@
  * @exports
  *   extractFilter
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

@@ -11,7 +11,7 @@
  * @exports
  *   getEpisodeList - Express route handler for GET /api/episodes/:id
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

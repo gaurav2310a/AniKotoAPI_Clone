@@ -11,7 +11,7 @@
  * @exports
  *   formatTitle
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

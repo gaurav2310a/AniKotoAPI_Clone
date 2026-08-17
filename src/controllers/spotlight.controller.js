@@ -11,7 +11,7 @@
  * @exports
  *   getSpotlight - Express route handler for GET /api/spotlight
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

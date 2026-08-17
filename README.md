@@ -2600,7 +2600,7 @@ Free to use, modify, and distribute — see the [LICENSE](LICENSE) file for deta
 </div>
   
 <p align="center">
-  <b style="font-size: 5.5em;">Shinei Nouzen</b>
+  <b style="font-size: 5.5em;">Gaurav</b>
   <br/>
   <sub>Full-Stack Developer & Anime Enthusiast</sub>
   <br/><br/>
@@ -2627,5 +2627,5 @@ Free to use, modify, and distribute — see the [LICENSE](LICENSE) file for deta
 <p align="center">
   <b>Made With ❤️ For The Anime Community</b>
   <br/><br/>
-  <sub>© Shinei Nouzen. All Rights Reserved.</sub>
+  <sub>© Gaurav. All Rights Reserved.</sub>
 </p>

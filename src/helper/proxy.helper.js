@@ -11,7 +11,7 @@
  * @exports
  *   fetchWithProxy, getProxyStatus
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

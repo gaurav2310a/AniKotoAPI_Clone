@@ -11,7 +11,7 @@
  * @exports
  *   getAzList - Express route handler for GET /api/az-list/:letter
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */

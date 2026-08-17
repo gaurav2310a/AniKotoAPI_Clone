@@ -13,7 +13,7 @@
  *   addCreatorInfo — Express middleware function
  *   creatorInfo    — Static creator metadata object
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */
@@ -25,10 +25,10 @@
 // ---- FEATURE: Creator Attribution Object ----
 // NOTE: Injected into every response unless `data.creator` already exists
 const creatorInfo = {
-  creator: "Shinei Nouzen",
+  creator: "Gaurav",
   github: "https://github.com/gaurav2310a",
   telegram: "https://telegram.me/gaurav2310a",
-  message: "Built with ❤️ by Shinei Nouzen",
+  message: "Built with ❤️ by Gaurav",
 };
 
 // ══════════════════════════════════════════════════════════════

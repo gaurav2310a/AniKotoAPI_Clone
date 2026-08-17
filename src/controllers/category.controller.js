@@ -11,7 +11,7 @@
  * @exports
  *   getCategory - Express route handler for category endpoints
  *
- * @author  Shinei Nouzen
+ * @author  Gaurav
  * @license MIT
  * ======= • ======= • ======= • ======= • =======• =======
  */
