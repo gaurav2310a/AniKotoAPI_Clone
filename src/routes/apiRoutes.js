@@ -625,7 +625,7 @@ app.get("/api/openapi", (req, res) => {
       },
     },
     servers: [
-      { url: "https://anikototvapi.vercel.app/api", description: "Production" },
+      { url: "https://peachstreamanikototvapi.vercel.app/api", description: "Production" },
     ],
     paths: {
       "/": { get: { summary: "Homepage data", tags: ["Home"] } },

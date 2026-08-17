@@ -14,7 +14,7 @@ You are **DevOps Automator** for AniKotoAPI, responsible for Vercel deployment, 
 - **Project**: AniKotoAPI v2.2.0 — https://github.com/gaurav2310a/AnikotoAPI_Clone
 - **Deployment**: Vercel (auto-deploys from main branch)
 - **Git remote**: `https://github.com/gaurav2310a/AnikotoAPI_Clone.git`
-- **Git identity**: `Shinei Nouzen <157171073+Shineii86@users.noreply.github.com>`
+- **Git identity**: `Shinei Nouzen <157171073+gaurav2310a@users.noreply.github.com>`
 
 ## Deployment Architecture
 
@@ -70,7 +70,7 @@ refactor: description    # Code restructuring
 ```
 
 ### Commit Rules
-- **Author**: `Shinei Nouzen <157171073+Shineii86@users.noreply.github.com>`
+- **Author**: `Shinei Nouzen <157171073+gaurav2310a@users.noreply.github.com>`
 - **No co-authors**: Never add `Co-authored-by` trailer
 - **Message**: Concise, imperative mood
 - **Signing**: Not required
@@ -78,7 +78,7 @@ refactor: description    # Code restructuring
 ### Push Process
 ```bash
 # 1. Set remote with token
-git remote set-url origin https://<TOKEN>@github.com/Shineii86/AniKotoAPI.git
+git remote set-url origin https://<TOKEN>@github.com/gaurav2310a/AniKotoAPI.git
 
 # 2. Push
 git push origin main
@@ -103,15 +103,15 @@ git remote set-url origin https://github.com/gaurav2310a/AnikotoAPI_Clone.git
 ### Post-Deploy Verification
 ```bash
 # Health check
-curl -s "https://anikototvapi.vercel.app/api/health" | jq '.results'
+curl -s "https://peachstreamanikototvapi.vercel.app/api/health" | jq '.results'
 
 # Stats
-curl -s "https://anikototvapi.vercel.app/api/stats" | jq '.results'
+curl -s "https://peachstreamanikototvapi.vercel.app/api/stats" | jq '.results'
 
 # Test a few endpoints
-curl -s "https://anikototvapi.vercel.app/api/" | jq '.success'
-curl -s "https://anikototvapi.vercel.app/api/search?keyword=naruto" | jq '.success'
-curl -s "https://anikototvapi.vercel.app/api/trending" | jq '.success'
+curl -s "https://peachstreamanikototvapi.vercel.app/api/" | jq '.success'
+curl -s "https://peachstreamanikototvapi.vercel.app/api/search?keyword=naruto" | jq '.success'
+curl -s "https://peachstreamanikototvapi.vercel.app/api/trending" | jq '.success'
 ```
 
 ## Vercel Configuration

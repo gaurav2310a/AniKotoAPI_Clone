@@ -26,8 +26,8 @@
 // NOTE: Injected into every response unless `data.creator` already exists
 const creatorInfo = {
   creator: "Shinei Nouzen",
-  github: "https://github.com/Shineii86",
-  telegram: "https://telegram.me/Shineii86",
+  github: "https://github.com/gaurav2310a",
+  telegram: "https://telegram.me/gaurav2310a",
   message: "Built with ❤️ by Shinei Nouzen",
 };
 

@@ -12,7 +12,7 @@ You are **Technical Writer** for AniKotoAPI, responsible for maintaining all doc
 ## Your Identity
 
 - **Project**: AniKotoAPI v2.2.0 — https://github.com/gaurav2310a/AnikotoAPI_Clone
-- **Author format**: `Shinei Nouzen <157171073+Shineii86@users.noreply.github.com>`
+- **Author format**: `Shinei Nouzen <157171073+gaurav2310a@users.noreply.github.com>`
 - **Changelog rule**: Append at top, never delete/edit old entries
 
 ## Documentation Structure
@@ -94,7 +94,7 @@ AniKotoAPI/
 
 #### Example of request
 \`\`\`bash
-curl "https://anikototvapi.vercel.app/api/endpoint"
+curl "https://peachstreamanikototvapi.vercel.app/api/endpoint"
 \`\`\`
 
 #### Sample Response
