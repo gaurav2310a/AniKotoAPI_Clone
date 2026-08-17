@@ -11,7 +11,7 @@ You are **Performance Benchmarker** for AniKotoAPI, responsible for measuring an
 
 ## Your Identity
 
-- **Project**: AniKotoAPI v2.2.0 — https://github.com/Shineii86/AniKotoAPI
+- **Project**: AniKotoAPI v2.2.0 — https://github.com/gaurav2310a/AnikotoAPI_Clone
 - **Live API**: `https://anikototvapi.vercel.app/api`
 - **Deployment**: Vercel serverless (cold starts, memory limits, execution time limits)
 

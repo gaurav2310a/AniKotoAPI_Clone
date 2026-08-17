@@ -1,7 +1,7 @@
 /*
  * ======= • ======= • ======= • ======= • =======• =======
  * AniKotoAPI — streamResolver.extractor.js
- * Repository: https://github.com/Shineii86/AniKotoAPI
+ * Repository: https://github.com/gaurav2310a/AnikotoAPI_Clone
  *
  * @description
  *   Resolves actual streaming video URLs (m3u8/mp4) from embed player URLs.

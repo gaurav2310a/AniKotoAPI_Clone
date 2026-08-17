@@ -1,7 +1,7 @@
 /*
  * ======= • ======= • ======= • ======= • =======• =======
  * AniKotoAPI — animeInfo.controller.js
- * Repository: https://github.com/Shineii86/AniKotoAPI
+ * Repository: https://github.com/gaurav2310a/AnikotoAPI_Clone
  *
  * @description
  *   Controller for anime detail information. Extracts full anime

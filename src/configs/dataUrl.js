@@ -1,7 +1,7 @@
 /*
  * ======= • ======= • ======= • ======= • =======• =======
  * AniKotoAPI — dataUrl.js
- * Repository: https://github.com/Shineii86/AniKotoAPI
+ * Repository: https://github.com/gaurav2310a/AnikotoAPI_Clone
  *
  * @description
  *   Central configuration file defining all URL patterns for the AniKoto

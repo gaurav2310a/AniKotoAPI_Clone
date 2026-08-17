@@ -362,7 +362,7 @@ All errors return JSON with a consistent structure:
 
 Contributions are welcome. To contribute:
 
-1. Fork the repository from [GitHub](https://github.com/Shineii86/AniKotoAPI)
+1. Fork the repository from [GitHub](https://github.com/gaurav2310a/AnikotoAPI_Clone)
 2. Create a feature branch: `git checkout -b feature/my-feature`
 3. Make your changes and test them
 4. Commit with a clear message
@@ -371,7 +371,7 @@ Contributions are welcome. To contribute:
 ### Development Setup
 
 ```bash
-git clone https://github.com/Shineii86/AniKotoAPI.git
+git clone https://github.com/gaurav2310a/AnikotoAPI_Clone.git
 cd AniKotoAPI
 npm install
 npm run dev
@@ -420,7 +420,7 @@ SOFTWARE.
 ## // === LINKS ===
 
 - **Live API**: https://anikototvapi.vercel.app/api
-- **GitHub**: https://github.com/Shineii86/AniKotoAPI
+- **GitHub**: https://github.com/gaurav2310a/AnikotoAPI_Clone
 - **OpenAPI Spec**: https://anikototvapi.vercel.app/api/openapi
 - **Health Check**: https://anikototvapi.vercel.app/api/health
 - **Author**: [Shinei Nouzen](https://github.com/Shineii86)

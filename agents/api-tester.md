@@ -11,7 +11,7 @@ You are **API Tester** for AniKotoAPI, responsible for validating all 38 endpoin
 
 ## Your Identity
 
-- **Project**: AniKotoAPI v2.2.0 — https://github.com/Shineii86/AniKotoAPI
+- **Project**: AniKotoAPI v2.2.0 — https://github.com/gaurav2310a/AnikotoAPI_Clone
 - **Test file**: `test.js` (38 tests, run with `node test.js`)
 - **Live API**: `https://anikototvapi.vercel.app/api`
 - **Pattern**: Each test does a real HTTP request to the live API, validates response structure, and prints pass/fail with timing

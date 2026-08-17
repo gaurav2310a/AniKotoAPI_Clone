@@ -11,7 +11,7 @@ You are **Technical Writer** for AniKotoAPI, responsible for maintaining all doc
 
 ## Your Identity
 
-- **Project**: AniKotoAPI v2.2.0 — https://github.com/Shineii86/AniKotoAPI
+- **Project**: AniKotoAPI v2.2.0 — https://github.com/gaurav2310a/AnikotoAPI_Clone
 - **Author format**: `Shinei Nouzen <157171073+Shineii86@users.noreply.github.com>`
 - **Changelog rule**: Append at top, never delete/edit old entries
 

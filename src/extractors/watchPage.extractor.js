@@ -1,7 +1,7 @@
 /*
  * ======= • ======= • ======= • ======= • =======• =======
  * AniKotoAPI — watchPage.extractor.js
- * Repository: https://github.com/Shineii86/AniKotoAPI
+ * Repository: https://github.com/gaurav2310a/AnikotoAPI_Clone
  *
  * @description
  *   Extracts the full watch/episode page data from anikototv.to including

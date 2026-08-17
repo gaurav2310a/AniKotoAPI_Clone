@@ -8,12 +8,12 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Shineii86/AniKotoAPI/stargazers"><img src="https://img.shields.io/github/stars/Shineii86/AniKotoAPI?style=for-the-badge&logo=github&color=f43f8e&logoColor=white" alt="Stars"/></a>
-  <a href="https://github.com/Shineii86/AniKotoAPI/network/members"><img src="https://img.shields.io/github/forks/Shineii86/AniKotoAPI?style=for-the-badge&logo=github&color=a855f7&logoColor=white" alt="Forks"/></a>
-  <a href="https://github.com/Shineii86/AniKotoAPI/issues"><img src="https://img.shields.io/github/issues/Shineii86/AniKotoAPI?style=for-the-badge&logo=github&color=7c3aed&logoColor=white" alt="Issues"/></a>
-  <a href="https://github.com/Shineii86/AniKotoAPI/pulls"><img src="https://img.shields.io/github/issues-pr/Shineii86/AniKotoAPI?style=for-the-badge&logo=github&color=ec4899&logoColor=white" alt="Pull Requests"/></a>
-  <a href="https://github.com/Shineii86/AniKotoAPI/commits"><img src="https://img.shields.io/github/last-commit/Shineii86/AniKotoAPI?style=for-the-badge&logo=github&color=6366f1&logoColor=white" alt="Last Commit"/></a>
-  <a href="https://github.com/Shineii86/AniKotoAPI/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Shineii86/AniKotoAPI?style=for-the-badge&logo=mit&color=22c55e&logoColor=white" alt="License"/></a>
+  <a href="https://github.com/gaurav2310a/AnikotoAPI_Clone/stargazers"><img src="https://img.shields.io/github/stars/Shineii86/AniKotoAPI?style=for-the-badge&logo=github&color=f43f8e&logoColor=white" alt="Stars"/></a>
+  <a href="https://github.com/gaurav2310a/AnikotoAPI_Clone/network/members"><img src="https://img.shields.io/github/forks/Shineii86/AniKotoAPI?style=for-the-badge&logo=github&color=a855f7&logoColor=white" alt="Forks"/></a>
+  <a href="https://github.com/gaurav2310a/AnikotoAPI_Clone/issues"><img src="https://img.shields.io/github/issues/Shineii86/AniKotoAPI?style=for-the-badge&logo=github&color=7c3aed&logoColor=white" alt="Issues"/></a>
+  <a href="https://github.com/gaurav2310a/AnikotoAPI_Clone/pulls"><img src="https://img.shields.io/github/issues-pr/Shineii86/AniKotoAPI?style=for-the-badge&logo=github&color=ec4899&logoColor=white" alt="Pull Requests"/></a>
+  <a href="https://github.com/gaurav2310a/AnikotoAPI_Clone/commits"><img src="https://img.shields.io/github/last-commit/Shineii86/AniKotoAPI?style=for-the-badge&logo=github&color=6366f1&logoColor=white" alt="Last Commit"/></a>
+  <a href="https://github.com/gaurav2310a/AnikotoAPI_Clone/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Shineii86/AniKotoAPI?style=for-the-badge&logo=mit&color=22c55e&logoColor=white" alt="License"/></a>
 </p>
 
 <p align="center">
@@ -410,7 +410,7 @@ AniKotoAPI/
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/Shineii86/AniKotoAPI.git
+git clone https://github.com/gaurav2310a/AnikotoAPI_Clone.git
 cd AniKotoAPI
 
 # 2️⃣ Install dependencies
@@ -2264,7 +2264,7 @@ All list endpoints include pagination metadata in the response:
 
 ### ▲ Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Shineii86/AniKotoAPI)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/gaurav2310a/AnikotoAPI_Clone)
 
 1. Click the button above (or import manually on vercel.com)
 2. Vercel auto-detects the project — **no config needed**
@@ -2279,13 +2279,13 @@ npx vercel --prod
 
 Host your own instance of AniKotoAPI on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Shineii86/AniKotoAPI)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/gaurav2310a/AnikotoAPI_Clone)
 
 ### 🖥️ Standalone Server
 
 ```bash
 # Clone and install
-git clone https://github.com/Shineii86/AniKotoAPI.git
+git clone https://github.com/gaurav2310a/AnikotoAPI_Clone.git
 cd AniKotoAPI && npm install
 
 # Start production server
@@ -2488,7 +2488,7 @@ The API can access 10,000+ anime titles from anikototv.to. The most-popular endp
 ### 🐛 Report Bugs
 Found something broken?
 
-[Open an Issue](https://github.com/Shineii86/AniKotoAPI/issues)
+[Open an Issue](https://github.com/gaurav2310a/AnikotoAPI_Clone/issues)
 
 </td>
 <td width="25%" align="center">
@@ -2496,7 +2496,7 @@ Found something broken?
 ### 💡 Suggest Features
 Have an idea?
 
-[Start a Discussion](https://github.com/Shineii86/AniKotoAPI/issues)
+[Start a Discussion](https://github.com/gaurav2310a/AnikotoAPI_Clone/issues)
 
 </td>
 <td width="25%" align="center">
@@ -2504,7 +2504,7 @@ Have an idea?
 ### 🔀 Submit PRs
 Ready to contribute code?
 
-[Fork & Submit](https://github.com/Shineii86/AniKotoAPI/fork)
+[Fork & Submit](https://github.com/gaurav2310a/AnikotoAPI_Clone/fork)
 
 </td>
 </tr>
@@ -2593,7 +2593,7 @@ Free to use, modify, and distribute — see the [LICENSE](LICENSE) file for deta
 
 <div align="center">
 
-  <a href="https://github.com/Shineii86/AniKotoAPI">
+  <a href="https://github.com/gaurav2310a/AnikotoAPI_Clone">
   <img src="https://github.com/AniWaifuBot/Waifus/blob/main/Source/Banner.png" alt="Banner" width="100%" />
   </a>
   

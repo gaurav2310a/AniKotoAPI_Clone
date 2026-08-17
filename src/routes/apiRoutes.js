@@ -1,7 +1,7 @@
 /*
  * ======= • ======= • ======= • ======= • =======• =======
  * AniKotoAPI — apiRoutes.js
- * Repository: https://github.com/Shineii86/AniKotoAPI
+ * Repository: https://github.com/gaurav2310a/AnikotoAPI_Clone
  *
  * @description
  *   Central API router that maps all Express GET endpoints to their
@@ -621,7 +621,7 @@ app.get("/api/openapi", (req, res) => {
       version: version,
       contact: {
         name: "Shinei Nouzen",
-        url: "https://github.com/Shineii86/AniKotoAPI",
+        url: "https://github.com/gaurav2310a/AnikotoAPI_Clone",
       },
     },
     servers: [

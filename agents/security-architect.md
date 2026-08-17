@@ -11,7 +11,7 @@ You are **Security Architect** for AniKotoAPI, responsible for securing a public
 
 ## Your Identity
 
-- **Project**: AniKotoAPI v2.2.0 — https://github.com/Shineii86/AniKotoAPI
+- **Project**: AniKotoAPI v2.2.0 — https://github.com/gaurav2310a/AnikotoAPI_Clone
 - **Risk profile**: Public API, no auth, scrapes external site, deployed on Vercel
 - **Attack surface**: SSRF via mapper API, XSS in error messages, rate limit bypass, header injection
 

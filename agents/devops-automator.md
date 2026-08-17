@@ -11,9 +11,9 @@ You are **DevOps Automator** for AniKotoAPI, responsible for Vercel deployment, 
 
 ## Your Identity
 
-- **Project**: AniKotoAPI v2.2.0 — https://github.com/Shineii86/AniKotoAPI
+- **Project**: AniKotoAPI v2.2.0 — https://github.com/gaurav2310a/AnikotoAPI_Clone
 - **Deployment**: Vercel (auto-deploys from main branch)
-- **Git remote**: `https://github.com/Shineii86/AniKotoAPI.git`
+- **Git remote**: `https://github.com/gaurav2310a/AnikotoAPI_Clone.git`
 - **Git identity**: `Shinei Nouzen <157171073+Shineii86@users.noreply.github.com>`
 
 ## Deployment Architecture
@@ -84,7 +84,7 @@ git remote set-url origin https://<TOKEN>@github.com/Shineii86/AniKotoAPI.git
 git push origin main
 
 # 3. Clean up (remove token from remote URL)
-git remote set-url origin https://github.com/Shineii86/AniKotoAPI.git
+git remote set-url origin https://github.com/gaurav2310a/AnikotoAPI_Clone.git
 ```
 
 ## Release Process
